@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8471" started-at="2017-03-22T17:53:22Z" finished-at="2017-03-22T17:53:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8471" started-at="2017-03-22T17:53:22Z" finished-at="2017-03-22T17:53:31Z">
+      <class name="LearnTestNG.SearchNameTest">
+        <test-method status="PASS" signature="startup()[pri:0, instance:LearnTestNG.SearchNameTest@27efef64]" name="startup" is-config="true" duration-ms="1099" started-at="2017-03-22T23:23:22Z" finished-at="2017-03-22T23:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="SearchNameOnGoogle()[pri:0, instance:LearnTestNG.SearchNameTest@27efef64]" name="SearchNameOnGoogle" duration-ms="7360" started-at="2017-03-22T23:23:23Z" finished-at="2017-03-22T23:23:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchNameOnGoogle -->
+      </class> <!-- LearnTestNG.SearchNameTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
